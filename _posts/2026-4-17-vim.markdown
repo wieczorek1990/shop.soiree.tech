@@ -1,0 +1,55 @@
+---
+published: true
+title: VIM
+layout: post
+---
+VIM is my favourite terminal editor.
+I am writing this post for me to easier to switch to
+[Helix](https://helix-editor.com)
+which I will follow up with another post.
+
+Before opening:
+```
+which -a vim
+brew install vim
+vim --version
+vim Notes.md
+vimtutor
+```
+
+To exit:
+```
+:q
+:q!
+:x
+:wq
+```
+
+To navigate:
+```
+h j k l # train this with muscles
+^ # home
+$ # end
+gg # document beginning
+shift + G # document end
+```
+
+In visual mode:
+```
+i # insert
+a # append
+shift + i # append to the beginning of line
+shift + a # append to the end of line
+dd # delete line
+dw # delete word
+y # yank
+p # paste
+u # undo
+ctrl + r # redo
+shift + v # visual line
+```
+
+In insert mode:
+```
+esc # escape to visual mode
+```
