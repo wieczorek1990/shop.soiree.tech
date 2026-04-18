@@ -1,4 +1,4 @@
 blog.soiree.tech
 ================
 
-Static blog for Soiree.
+Static shop for Soiree.
