@@ -1,0 +1,7 @@
+---
+published: true
+title: SHOP
+layout: post
+---
+
+This the shop blog.

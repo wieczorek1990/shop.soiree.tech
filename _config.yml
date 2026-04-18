@@ -1,9 +1,9 @@
 excerpt_separator: ""
 highlighter: rouge
 markdown: kramdown
-url: http://wieczorek1990.github.io
-title: Łukasz Wieczorek's blog
-tagline: A slice of programmer's life
+url: http://wieczorek1990.github.io/shop.soiree.tech/
+title: Łukasz Wieczorek's shop
+tagline: Have a many things!
 description: Just sharing my thoughts…
 plugins: [jekyll-paginate, kramdown]
 paginate: 3

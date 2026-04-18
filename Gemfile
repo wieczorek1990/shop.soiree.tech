@@ -1,9 +1,11 @@
 source 'https://rubygems.org'
 
-gem 'github-pages'
-gem 'logger'
-gem 'kramdown'
-gem 'nokogiri'
-gem 'rubyzip'
-gem 'tzinfo'
+gem 'jekyll'
+gem 'jekyll-paginate'
+gem 'kramdown-parser-gfm'
+gem 'liquid', '4.0.4'
 gem 'webrick'
+
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
